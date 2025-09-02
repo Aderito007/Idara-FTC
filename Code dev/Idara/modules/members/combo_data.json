@@ -1,0 +1,21 @@
+{
+  "departamentos": [
+    "RH",
+    "TI",
+    "Financeiro"
+  ],
+  "cargos": {
+    "RH": [
+      "Analista",
+      "Assistente"
+    ],
+    "TI": [
+      "Desenvolvedor",
+      "Suporte"
+    ],
+    "Financeiro": [
+      "Analista Financeiro",
+      "Contabilista"
+    ]
+  }
+}
